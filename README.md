@@ -1,1 +1,1 @@
-# blog-app-apis
+Backend code for blog application 
